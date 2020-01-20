@@ -1,2 +1,2 @@
 CMSC 1113 Programming I – this is pretty easy
-CMSC 1123 Programming II – this is harder
+CMSC 1123 Programming II – this is harder because it has pointers
