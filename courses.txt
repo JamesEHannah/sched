@@ -1,2 +1,2 @@
 CMSC 1113 Programming I
-CMSC 1123 Programming II
+CMSC 1123 Programming II – this has pointers
